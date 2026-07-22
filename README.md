@@ -5,22 +5,20 @@
 Keith Warden
 
 ## Description
-Briefly describe what this program does.
-
+The program takes the data from from the data files and calculates the standard deviation of daily returns to find the volatility 
+of the Futures. 
 ## Java Files
-List your Java files here.
+Main.java, MonteCarloVolatility.java,IVolatilityCalculator.java, GoldFuture.java, CopperFuture.java, CoffeeFuture.java, 
 
 ## Data Files
-List your text files here.
-
+GoldData.txt, CopperData.txt, CoffeeData.txt
 ## How to Run
-Explain how to run the program in OnlineGDB.
-
+Click the Run button on OnlineGBD and it shows the computed volatility from the data files.
 ## OnlineGDB Link
-Paste your OnlineGDB share link here.
+https://www.onlinegdb.com/s/as/390019
 
 ## GitHub Repository Link
-Paste your GitHub repository link here.
+https://github.com/Keiththetree/java-week8-futures-volatility
 
 ## AI Assistance Statement
 State whether you used Gemini or another AI tool. If you used AI, briefly explain what you used it for.
